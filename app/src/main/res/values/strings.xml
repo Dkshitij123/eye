@@ -1,0 +1,13 @@
+<resources>
+        <string name="app_name">Eye</string>
+    <string name="your_name">Your Name</string>
+    <string name="todo">TODO</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="save">Save</string>
+    <string name="phone">Phone</string>
+    <string name="your_email_address">Your Email Address</string>
+    <string name="your_name">Your Name</string>
+    <string name="todo">TODO</string>
+</resources>

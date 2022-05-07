@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571283557942",
+    "project_id": "be-project-af015",
+    "storage_bucket": "be-project-af015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571283557942:android:77e10da0e9a1e11035d297",
+        "android_client_info": {
+          "package_name": "com.example.eye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571283557942-nvbolnptu4boqfvo9em46406jo953m29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2H09-FqwHVKDbhnpzTrbY1p3rK4aJ3VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571283557942-nvbolnptu4boqfvo9em46406jo953m29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
